@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="happy" src=".github/happy.png" width="100%">
+  <img alt="happy" src="https://github.com/DevLuke-BR/NLW3-Happy-Web-/blob/main/logo.svg" width="100%">
 </p>
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
